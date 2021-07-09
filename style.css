@@ -1,5 +1,9 @@
+body {
+    background-color: #D6D2C4;
+}
+
 .calculator {
-    background-color: burlywood;
+    background-color: #5D534A;
     display: grid;
     width: 400px;
     border-radius: 20px;
